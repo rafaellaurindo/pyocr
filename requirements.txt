@@ -1,0 +1,2 @@
+pytesseract==0.2.4
+clipboard==0.0.4
