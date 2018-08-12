@@ -8,3 +8,7 @@ Read the texts in images easily using Python.
 #### Accepted formats
   - Portable Network Graphics - PNG
   - Joint Photographic Experts Group - JPG, JPEG
+
+#### Resources
+  - View the text of image;
+  - Send the text to the clipboard;
