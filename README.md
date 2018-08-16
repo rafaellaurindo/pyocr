@@ -14,4 +14,4 @@ Read the texts in images easily using Python.
   - Send the text to the clipboard;
   
 ### Post on my blog
-See this post on my [Blog](http://rafaellaurindo.com.br/pyocr/).
+See this post on my [Blog](https://rafaellaurindo.com.br/pyocr/).
